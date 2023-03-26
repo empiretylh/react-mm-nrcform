@@ -1,6 +1,11 @@
   <h1>NRC Form Library Documentation</h1>
   <h2>Introduction</h2>
   <p>The NRC Form library is a React component that provides an input form for Myanmar National Registration Card (NRC) numbers. The component allows users to select the NRC code, place, type, and enter the NRC number in a standardized format.</p>
+ 
+  <h2>Thanks</h2>
+  <p>Thanks for this nrc data repository <a href='https://github.com/htetoozin/Myanmar-NRC/blob/master/nrc.json'>https://github.com/htetoozin/Myanmar-NRC/blob/master/nrc.json</a><br/>
+  I used this data to make my nrc package.</p>
+  
   <h2>Usage</h2>
   <p>To use the NRC Form library, follow these steps:</p>
   <ol>
