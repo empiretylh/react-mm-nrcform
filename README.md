@@ -5,9 +5,9 @@
   <p>To use the NRC Form library, follow these steps:</p>
   <ol>
     <li>Install the library via npm:</li>
-    <pre><code>npm install myanmar-nrc-form</code></pre>
+    <pre><code>npm install react-mm-nrc-form</code></pre>
     <li>Import the library in your React component:</li>
-    <pre><code>import NRCForm from "myanmar-nrc-form";</code></pre>
+    <pre><code>import NRCForm from "react-mm-nrc-form";</code></pre>
     <li>Use the component in your JSX:</li>
     <pre><code>&lt;NRCForm /&gt;</code></pre>
   </ol>
@@ -108,7 +108,6 @@ const App = () => {
 };
 ```
 
-<h2>Conclusion:</h2>
 <p>
 The NRCForm component provided by this npm library can be used to input and validate Myanmar National Registration Card (NRC) numbers in a React project. It can be customized with various props to suit different needs.
       </p>
